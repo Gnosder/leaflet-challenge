@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Leaflet-Step-1/static/js/config.js
